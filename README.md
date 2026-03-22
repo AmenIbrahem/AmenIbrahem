@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ameen Ibrahim</h1>
+<h1 align="center">Hi 👋, I'm Amen Ibrahim</h1>
 <h3 align="center">🚀 Junior Data Analyst | Turning Data into Insights</h3>
 
 <p align="center">
